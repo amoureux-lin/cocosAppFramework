@@ -1,1 +1,0 @@
-"use strict";function load(){}function unload(){}Object.defineProperty(exports,"__esModule",{value:!0}),exports.unload=exports.load=exports.methods=void 0,exports.methods={showLog(){console.log("Hello World")}},exports.load=load,exports.unload=unload;
